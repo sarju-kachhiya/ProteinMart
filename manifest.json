@@ -1,0 +1,22 @@
+{
+  "name": "Healthkart",
+  "short_name": "Healthkart",
+  "icons": [ {
+    "src": "https://static1.hkrtcdn.com/hknext/static/media/logos/logo-icon.svg",
+    "sizes": "192x192",
+    "type": "image/svg+xml"
+  },
+  {
+    "src": "https://static1.hkrtcdn.com/hknext/static/media/logos/logo-icon.svg",
+    "sizes": "512x512",
+    "type": "image/svg+xml"
+  } ],
+  "start_url": "/?webapp=1",
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#0088CC",
+  "background_color": "#0088CC",
+  "gcm_sender_id": "1046941779389",
+  "gcm_user_visible_only": true
+}
+
